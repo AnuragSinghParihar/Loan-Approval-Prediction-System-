@@ -1,8 +1,5 @@
-fastapi
-uvicorn[standard]
+streamlit
+pandas
 scikit-learn
 nltk
 joblib
-python-multipart
-PyPDF2
-python-docx
