@@ -1,6 +1,6 @@
 # Loan Approval Prediction System
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://loan-approval-prediction-system-anurag.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://esaxpvs7mhxsmappyptyt8k.streamlit.app/)
 
 An NLP-based loan approval predictor that analyzes customer notes to instantly classify applications as Approved or Rejected. Built with Scikit-learn, TF-IDF vectorization, and a Streamlit UI.
 
@@ -8,7 +8,7 @@ An NLP-based loan approval predictor that analyzes customer notes to instantly c
 
 ## Live Demo
 
-**[https://loan-approval-prediction-system-anurag.streamlit.app](https://loan-approval-prediction-system-anurag.streamlit.app)**
+**[https://esaxpvs7mhxsmappyptyt8k.streamlit.app/](https://esaxpvs7mhxsmappyptyt8k.streamlit.app/)**
 
 ---
 
